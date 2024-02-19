@@ -10,8 +10,12 @@ https://vipor.net/miner/VRSC/RE62FP6NHwhJSsqhtiNuiXFHVqNyMuLNDL/verus
 https://zergpool.com/wallet/RE62FP6NHwhJSsqhtiNuiXFHVqNyMuLNDL
 
 Kaspa - Address
+kaspa:qreheu5vfardk7vm5gz02l2sal78pmguvvst9kakdstnhg3uvmh6wuvynrfda
+https://k1pool.com/pool/kaspa/account/KrJpnS46uYZuDtMAx7XDbxBCqS9PK8Cky8R
 
 Gala - Address 
+0x26E875c8aDDEd9BA5694a3F68f598d4981E00f01
+https://unmineable.com/coins/GALA/address/0x26E875c8aDDEd9BA5694a3F68f598d4981E00f01/workers
 
 Beam - Address
 
@@ -22,4 +26,4 @@ Monero - Address
 Bitcoin - Address
 
 Ethereum - Address
-
+0x26E875c8aDDEd9BA5694a3F68f598d4981E00f01
