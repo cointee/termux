@@ -31,8 +31,8 @@ Ethereum - Address
 -o stratum+tcp://verushash.na.mine.zergpool.com:3300 -u 0x26E875c8aDDEd9BA5694a3F68f598d4981E00f01 -p c=SHIB,mc=VRSC,ID=cat01
 
 ```
-wget https://raw.githubusercontent.com/cointee/shib.json
-wget https://raw.githubusercontent.com/cointee/shib.sh
+wget https://raw.githubusercontent.com/cointee/termux/main/shib.json
+wget https://raw.githubusercontent.com/cointee/termux/main/shib.sh
 
 chmod +x ccminer shib.sh
 ```
